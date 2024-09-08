@@ -1,6 +1,8 @@
 
 # Tab Time Tracker
 
+> [!note]
+> bugged
 A Chrome extension that monitors and displays the time spent on each active tab.
 
 ## Directory Structure
